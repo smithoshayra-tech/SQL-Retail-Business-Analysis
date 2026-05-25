@@ -83,6 +83,6 @@ Who is the most popular parts manufacturer? Which states and stores sell the mos
 
 ## About
 
-I'm a data analyst who finds the story behind the numbers. This project sits at the intersection of database querying and business intelligence — answering the kind of questions that actually drive inventory and pricing decisions.
+I'm a data analyst who finds the story behind the numbers. This project sits at the intersection of database querying and business intelligence answering the kind of questions that actually drive inventory and pricing decisions.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/sharon-smith-analyst)
