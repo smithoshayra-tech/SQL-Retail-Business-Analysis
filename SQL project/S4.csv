@@ -1,0 +1,144 @@
+manufacturername,partname,CountPart,Manufacturer_counts
+NULL,NULL,412242,412242
+"Shimano (USA)",NULL,195933,195933
+Campagnolo,NULL,35273,35273
+"Shimano (USA)","Front derailleur",19440,19440
+"Shimano (USA)","Rear cogs",19439,19439
+"Shimano (USA)","Bottom bracket",17669,17669
+"Shimano (USA)",Crank,17669,17669
+"Shimano (USA)","Rear derailleur",17669,17669
+"Shimano (USA)",Brakes,17668,17668
+"Shimano (USA)",Chain,15839,15839
+Selle,Saddle,15824,15824
+Selle,NULL,15824,15824
+"Shimano (USA)","Brakeset levers",15477,15477
+Sakae,NULL,14618,14618
+"Easton Sports",NULL,14255,14255
+"Shimano (USA)","Rear wheel",13931,13931
+"Shimano (USA)","Front wheel",13930,13930
+Specialized,NULL,13016,13016
+"Shimano (USA)",Pedals,11908,11908
+Specialized,Tire,10567,10567
+"Shimano (USA)",Headset,9262,9262
+Mavic,NULL,9183,9183
+"Control Tech",Stem,8810,8810
+"Control Tech",NULL,8810,8810
+Tioga,NULL,8626,8626
+Time,NULL,8527,8527
+Sakae,"Seat post",8155,8155
+Scott,NULL,6905,6905
+Time,Fork,6741,6741
+Scott,Handlebar,6429,6429
+"Easton Sports",Stem,5325,5325
+SRAM,NULL,5313,5313
+"Rock Shox",Fork,5060,5060
+"Rock Shox",NULL,5060,5060
+Syncros,NULL,4841,4841
+"Easton Sports",Handlebar,4465,4465
+"Easton Sports","Seat post",4465,4465
+Tioga,"Tire front",4313,4313
+Tioga,"Tire rear",4313,4313
+"Deda Elementi",NULL,4080,4080
+Answer,NULL,4071,4071
+"Cane Creek",Headset,4049,4049
+"Cane Creek",NULL,4049,4049
+King,Headset,3910,3910
+King,NULL,3910,3910
+Mavic,"Front wheel",3907,3907
+Mavic,"Rear wheel",3907,3907
+"Shimano (USA)","Seat post",3840,3840
+"Crank Brothers",Pedals,3714,3714
+"Crank Brothers",NULL,3714,3714
+Vetta,Saddle,3483,3483
+Vetta,NULL,3483,3483
+Avocet,Saddle,3301,3301
+Avocet,NULL,3301,3301
+Answer,Fork,3222,3222
+Campagnolo,"Front derailleur",3168,3168
+Campagnolo,Headset,3168,3168
+Sedis,Chain,3152,3152
+Sedis,NULL,3152,3152
+Syncros,"Seat post",3070,3070
+Look,NULL,3003,3003
+Campagnolo,"Bottom bracket",2940,2940
+Campagnolo,Brakes,2940,2940
+Campagnolo,Crank,2940,2940
+Campagnolo,"Rear cogs",2940,2940
+Campagnolo,"Rear derailleur",2939,2939
+Dia-Compe,Headset,2910,2910
+Dia-Compe,NULL,2910,2910
+Ibis,NULL,2909,2909
+Campagnolo,"Seat post",2788,2788
+Campagnolo,"Brakeset levers",2722,2722
+Campagnolo,"Front wheel",2722,2722
+Campagnolo,"Rear wheel",2720,2720
+Continental,Tire,2678,2678
+Continental,NULL,2678,2678
+"Deda Elementi",Stem,2663,2663
+Cinelli,Handlebar,2600,2600
+Cinelli,NULL,2600,2600
+Sakae,Handlebar,2595,2595
+Ibis,Handlebar,2542,2542
+Marzocchi,Fork,2542,2542
+Marzocchi,NULL,2542,2542
+Spinergy,NULL,2356,2356
+Michelin,Tire,2275,2275
+Michelin,NULL,2275,2275
+"Shimano (USA)","Shift levers",2191,2191
+Specialized,"Tire front",2127,2127
+Sakae,Stem,2061,2061
+Campagnolo,Chain,1846,1846
+Time,Pedals,1786,1786
+Avid,Brakes,1771,1771
+Avid,NULL,1771,1771
+"Cook Brothers",Crank,1771,1771
+"Cook Brothers",NULL,1771,1771
+"Fox Racing",Fork,1771,1771
+"Fox Racing",NULL,1771,1771
+SRAM,Chain,1771,1771
+SRAM,"Rear derailleur",1771,1771
+SRAM,"Shift levers",1771,1771
+Syncros,"Bottom bracket",1771,1771
+Rolf,NULL,1720,1720
+Litespeed,Stem,1713,1713
+Litespeed,NULL,1713,1713
+TTT,Handlebar,1711,1711
+TTT,NULL,1711,1711
+Look,Fork,1512,1512
+Look,Pedals,1491,1491
+"Deda Elementi",Handlebar,1417,1417
+Ritchey,NULL,1309,1309
+Sakae,Pedals,1225,1225
+Campagnolo,Pedals,1222,1222
+Profile,Fork,1178,1178
+Profile,NULL,1178,1178
+Spinergy,"Front wheel",1178,1178
+Spinergy,"Rear wheel",1178,1178
+Rolf,"Front wheel",860,860
+Rolf,"Rear wheel",860,860
+Answer,Handlebar,849,849
+Ritchey,"Tire rear",779,779
+"Sampson Sports",Pedals,730,730
+"Sampson Sports",NULL,730,730
+Sakae,Fork,582,582
+Onza,Pedals,532,532
+Onza,NULL,532,532
+Ritchey,"Tire front",530,530
+"Race Face",Stem,528,528
+"Race Face",NULL,528,528
+Scott,Stem,476,476
+Ibis,Stem,367,367
+Specialized,"Tire rear",321,321
+"Dean Manufacturing","Seat post",290,290
+"Dean Manufacturing",NULL,290,290
+Mavic,"Rear derailleur",229,229
+Mavic,"Bottom bracket",228,228
+Mavic,Brakes,228,228
+Mavic,Crank,228,228
+Mavic,"Rear cogs",228,228
+Mavic,"Shift levers",228,228
+Campagnolo,"Shift levers",218,218
+"Grip Shift","Shift levers",1,1
+"Grip Shift",NULL,1,1
+"Shimano (USA)",Tire,1,1
+Specialized,"Rear wheel",1,1

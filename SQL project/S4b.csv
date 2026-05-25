@@ -1,0 +1,158 @@
+state,partname,SumSales,Count
+DE,"Front derailleur",8190.0000,3
+DE,"Front derailleur",8190.0000,3
+DE,NULL,8190.0000,3
+MA,"Front derailleur",10960.0000,5
+MA,"Front derailleur",10960.0000,5
+MA,NULL,10960.0000,5
+NH,"Front derailleur",11870.0000,5
+NH,"Front derailleur",11870.0000,5
+NH,NULL,11870.0000,5
+ME,"Front derailleur",12460.0000,5
+ME,"Front derailleur",12460.0000,5
+ME,NULL,12460.0000,5
+RI,"Front derailleur",14660.0000,6
+RI,"Front derailleur",14660.0000,6
+RI,NULL,14660.0000,6
+HI,"Front derailleur",16220.0000,6
+HI,"Front derailleur",16220.0000,6
+HI,NULL,16220.0000,6
+VT,"Front derailleur",24625.0000,11
+VT,"Front derailleur",24625.0000,11
+VT,NULL,24625.0000,11
+AK,"Front derailleur",27235.0000,12
+AK,"Front derailleur",27235.0000,12
+AK,NULL,27235.0000,12
+ID,"Front derailleur",27610.0000,11
+ID,"Front derailleur",27610.0000,11
+ID,NULL,27610.0000,11
+SD,"Front derailleur",30310.0000,13
+SD,"Front derailleur",30310.0000,13
+SD,NULL,30310.0000,13
+OK,"Front derailleur",33200.0000,15
+OK,"Front derailleur",33200.0000,15
+OK,NULL,33200.0000,15
+AR,"Front derailleur",35390.0000,15
+AR,"Front derailleur",35390.0000,15
+AR,NULL,35390.0000,15
+WV,"Front derailleur",35537.4500,15
+WV,"Front derailleur",35537.4500,15
+WV,NULL,35537.4500,15
+ND,"Front derailleur",35861.2200,15
+ND,"Front derailleur",35861.2200,15
+ND,NULL,35861.2200,15
+MS,"Front derailleur",39480.0000,16
+MS,"Front derailleur",39480.0000,16
+MS,NULL,39480.0000,16
+NE,"Front derailleur",40843.3300,16
+NE,"Front derailleur",40843.3300,16
+NE,NULL,40843.3300,16
+WY,"Front derailleur",40911.5400,17
+WY,"Front derailleur",40911.5400,17
+WY,NULL,40911.5400,17
+MT,"Front derailleur",42115.0000,17
+MT,"Front derailleur",42115.0000,17
+MT,NULL,42115.0000,17
+SC,"Front derailleur",45917.0100,20
+SC,"Front derailleur",45917.0100,20
+SC,NULL,45917.0100,20
+IA,"Front derailleur",47535.0000,19
+IA,"Front derailleur",47535.0000,19
+IA,NULL,47535.0000,19
+AL,"Front derailleur",48220.0000,21
+AL,"Front derailleur",48220.0000,21
+AL,NULL,48220.0000,21
+NY,"Front derailleur",48520.0000,19
+NY,"Front derailleur",48520.0000,19
+NY,NULL,48520.0000,19
+NV,"Front derailleur",48775.0000,22
+NV,"Front derailleur",48775.0000,22
+NV,NULL,48775.0000,22
+NM,"Front derailleur",52475.0000,24
+NM,"Front derailleur",52475.0000,24
+NM,NULL,52475.0000,24
+DC,"Front derailleur",54655.0000,20
+DC,"Front derailleur",54655.0000,20
+DC,NULL,54655.0000,20
+UT,"Front derailleur",56811.0700,23
+UT,"Front derailleur",56811.0700,23
+UT,NULL,56811.0700,23
+CO,"Front derailleur",61584.0000,25
+CO,"Front derailleur",61584.0000,25
+CO,NULL,61584.0000,25
+LA,"Front derailleur",66235.0000,27
+LA,"Front derailleur",66235.0000,27
+LA,NULL,66235.0000,27
+KS,"Front derailleur",78017.6900,30
+KS,"Front derailleur",78017.6900,30
+KS,NULL,78017.6900,30
+IN,"Front derailleur",79105.7100,30
+IN,"Front derailleur",79105.7100,30
+IN,NULL,79105.7100,30
+GA,"Front derailleur",83306.5400,32
+GA,"Front derailleur",83306.5400,32
+GA,NULL,83306.5400,32
+WA,"Front derailleur",92410.0000,34
+WA,"Front derailleur",92410.0000,34
+WA,NULL,92410.0000,34
+CT,"Front derailleur",94915.0000,34
+CT,"Front derailleur",94915.0000,34
+CT,NULL,94915.0000,34
+OR,"Front derailleur",97115.0000,36
+OR,"Front derailleur",97115.0000,36
+OR,NULL,97115.0000,36
+MO,"Front derailleur",102355.0000,43
+MO,"Front derailleur",102355.0000,43
+MO,NULL,102355.0000,43
+VA,"Front derailleur",106455.0000,44
+VA,"Front derailleur",106455.0000,44
+VA,NULL,106455.0000,44
+MN,"Front derailleur",108152.6600,44
+MN,"Front derailleur",108152.6600,44
+MN,NULL,108152.6600,44
+MD,"Front derailleur",118445.0000,43
+MD,"Front derailleur",118445.0000,43
+MD,NULL,118445.0000,43
+NC,"Front derailleur",118570.0000,46
+NC,"Front derailleur",118570.0000,46
+NC,NULL,118570.0000,46
+AZ,"Front derailleur",126230.0000,49
+AZ,"Front derailleur",126230.0000,49
+AZ,NULL,126230.0000,49
+TN,"Front derailleur",152589.7100,64
+TN,"Front derailleur",152589.7100,64
+TN,NULL,152589.7100,64
+NJ,"Front derailleur",184810.0000,73
+NJ,"Front derailleur",184810.0000,73
+NJ,NULL,184810.0000,73
+WI,"Front derailleur",189933.1100,79
+WI,"Front derailleur",189933.1100,79
+WI,NULL,189933.1100,79
+OH,"Front derailleur",205780.0000,81
+OH,"Front derailleur",205780.0000,81
+OH,NULL,205780.0000,81
+MI,"Front derailleur",213287.3800,90
+MI,"Front derailleur",213287.3800,90
+MI,NULL,213287.3800,90
+PA,"Front derailleur",235175.0000,90
+PA,"Front derailleur",235175.0000,90
+PA,NULL,235175.0000,90
+FL,"Front derailleur",273915.0000,108
+FL,"Front derailleur",273915.0000,108
+FL,NULL,273915.0000,108
+IL,"Front derailleur",376820.0000,140
+IL,"Front derailleur",376820.0000,140
+IL,NULL,376820.0000,140
+KY,"Front derailleur",401090.6400,175
+KY,"Front derailleur",401090.6400,175
+KY,NULL,401090.6400,175
+TX,"Front derailleur",429868.2600,165
+TX,"Front derailleur",429868.2600,165
+TX,NULL,429868.2600,165
+CA,"Front derailleur",3260343.5700,1089
+CA,"Front derailleur",3260343.5700,1089
+CA,NULL,3260343.5700,1089
+,"Front derailleur",47718962.2800,16389
+,"Front derailleur",47718962.2800,16389
+,NULL,47718962.2800,16389
+NULL,NULL,55865858.1700,19431
